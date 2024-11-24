@@ -37,6 +37,7 @@ Personalized Webpage/
 ## Setup Instructions
 
 1. Clone the repository
-2. Install required dependencies: pip install flask
-3. Run the application: python main.py
-4. Open your browser and visit http://127.0.0.1:5000
+2. Change the .jpg files inside images folder as needed
+3. Install required dependencies: pip install flask
+4. Run the application: python main.py
+5. Open your browser and visit http://127.0.0.1:5000
