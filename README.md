@@ -15,10 +15,10 @@ A simple dynamic webpage built with Flask, showcasing basic templating and stati
 ## Folder Structure
 
 Personalized Webpage/
-├── main.py          # Flask application script
-├── static/          # Folder for static files
-│   ├── assets/      # Additional static assets
-│   └── images/      # Images used in the webpage
+├── main.py          # Flask application script /n
+├── static/          # Folder for static files /n
+│   ├── assets/      # Additional static assets /n
+│   └── images/      # Images used in the webpage /n
 │       ├── bg.jpg   # Background image
 │       ├── avatar.jpg   # Avatar image
 │       └── profile.jpg  # Profile picture
